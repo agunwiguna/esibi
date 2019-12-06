@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">eSibi</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="slide_1_title">Media Gambar</string>
+    <string name="slide_1_desc">Belajar Bahasa Isyarat melalui media Gambar</string>
+    <string name="slide_2_title">Media Video </string>
+    <string name="slide_2_desc">Belajar Bahasa Isyarat melalui media Video</string>
+    <string name="slide_3_title">eSibi Bot</string>
+    <string name="slide_3_desc">Cari Bahasa Isyarat dari eSibi Bot</string>
+    <string name="play_again_desc">Untuk mwlihatnya lagi Settings -> apps -> Intro View -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
